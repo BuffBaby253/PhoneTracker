@@ -6,7 +6,12 @@
 
 > [!NOTE]
 > change the phone number in ***phonenumber.py*** to the number you want to hunt
-> change the API key in ***line 18 in main.py*** to your API key from [OpenCageData](www.opencagedata.com) **you will need to make an account**
+> change the API key in ***line 18 in main.py*** to your API key from [OpenCageData](https://opencagedata.com) **you will need to make an account**
+
+Next install the needed packages for this tool by entering
+```
+pip3 install -r requirements.txt
+```
 
 After that you are all set, simply run the command:
 ```
